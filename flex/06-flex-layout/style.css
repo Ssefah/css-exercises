@@ -14,6 +14,7 @@ img {
 button {
   font-family: Roboto, sans-serif;
   border: none;
+  padding: 8px 16px;
   border-radius: 8px;
   background: #eee;
 }
@@ -24,4 +25,28 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+.content{
+text-align: center;
+m
+}
+.header, .footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+.footer{
+  background-color: #eee;
+}
+ul{
+  display: flex;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  gap: 16px;
+}
+a{
+  color: #666;
+  text-decoration: none;
 }

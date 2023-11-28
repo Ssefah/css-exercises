@@ -1,0 +1,16 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.second{
+    color: blue;
+    font-size: 36 px;
+}
+.thrid{
+    font-size: 24px;
+}
+.Fourth{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
